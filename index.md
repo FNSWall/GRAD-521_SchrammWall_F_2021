@@ -1,0 +1,17 @@
+Roles and Responsibilities: Data Protection
+
+Please note: The data I has from literature review and open access GIS mapping programs, such as Global Fishing Watch, NOAA, anve comed Google Earth. As I have the data from my project, it is accessible from free access and the University. I do not have a formal DMP for this project.
+
+Identify the data management roles that must be accomplished by someone in the research project where you participate so that the data will be well managed.
+For the overall data responsibilities, the PI in charge would ultimately be responsible for the data protection and distribution. This individual would also be in charge of the DMP and its implementations. The researchers, which can involve students and authors of previous articles on the topic, involved in the data are also accountable for the safety of the data, metadata generation, data analysis, and data collection. 
+If an individual leaves the project, a contract of data sharing should be in place by the PI, Funder, or university/company the data collection is being done. Can the individual leaving take any data with them? How much of the data can they share with another party, if at all? What technology can be shared, if at all? Repercussions and legal concerns should also be involved if an individual leave the project. It should be clear to all parties what will happen if data and metadata are shared.  
+For a project as large as climate change and seafood security, many researchers and PI may be working on different parts of the greater project. For each part of metadata collected, it is the responsibility of the team working on the specific issue to keep the data secure before publishing and peer review. 
+
+We saw in class that some data needs to be protected. Is your data sensitive or confidential according to OSU's definition of sensitive and confidential data? Does any of your research data need to be protected? If so, what is your plan to do so?
+According to OSU’s definition of data confidentiality and sensitivity, the data I have collected is unrestricted. Since I have cited and gathered information from free access sources, the data is not sensitive or confidential and any additional protection of this data is not necessary.  
+Describe where the data will be stored during the project.
+Since this data is unrestrictive, it can be stored on my personal computer for use. The data is also accessible through web sources, such as NOAA, and can be accessed through these sources; it doesn’t necessarily need to be stored on my computer.
+
+Describe the backup strategy that you will follow for your datasets and other research materials in your project.
+If I were to design a backup strategy for my research, materials, and datasets it would include an (or multiple) external hard drives. This would remove the information from a computer that can be hacked. The external drives would be secured and accessible for the PI. Only the PI and other data managers would have access and can give the drives to the researchers for work. Currently, my data is unrestrictive so it can be located on my computer and external hard drive, in case of computer malfunction.
+For this data, two copies would suffice, one on my computer and the other on an external hard drive. If a shared network drive is used (though has not been used), then it would be backed up. This would ensure data would not be lost. All backup processes would be done manually, with autosave enabled on the computer, so all data is ensured saved.   
